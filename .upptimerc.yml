@@ -26,10 +26,10 @@ status-website:
   introTitle: "**Estado** de los equipos "
   introMessage: Los equipos se monitorean cada 5 minutos, y se grafica el tiempo medio de respuesta
   navbar:
-    - title: Status
+    - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Gestion
+      href: https://gestion.rpsa.ar/Radius/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
